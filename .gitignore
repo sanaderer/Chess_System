@@ -1,3 +1,4 @@
+.idea/
 out/
 .classpath
 .project
@@ -10,6 +11,4 @@ out/
 target
 classes
 build
-.idea/
-.idea
 *~
